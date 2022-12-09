@@ -12,7 +12,7 @@
 
 ### Issues
 
-Spacing is incorrect between the innermost columns, the keycaps listed below do not fit. Will be corrected in next version.
+The spacing between the innermost columns is insufficient, the keycaps listed below do not fit. I'm not sure if/when I will iterate on this design and correct the issue.
 
 ## Notes
 
