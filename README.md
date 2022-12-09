@@ -1,6 +1,6 @@
 # Thyranathaurus Rexth
 
-![t-rexth](./pics/pcb_3d.png)
+![t-rexth](./pics/double.jpg)
 
 ## About
 
@@ -9,6 +9,10 @@
 - Wireless
 - Minimum Choc y spacing
 - Tenting puck support
+
+### Issues
+
+Spacing is incorrect between the innermost columns, the keycaps listed below do not fit. Will be corrected in next version.
 
 ## Notes
 
