@@ -1,6 +1,10 @@
 module.exports = {
   body: p => `
     (footprint "LOGO" (version 20210606) (generator bitmap2component) (layer "F.Cu")
+      (fp_text reference "${p.ref}" (at 0 0) (layer F.Fab)
+        ${p.ref_hide}
+        (effects (font (size 1 1) (thickness 0.15)))
+      )
       ${p.at /* parametric position */}
       (fp_poly (pts
           (xy -2.754979 -1.861675)

@@ -3,6 +3,10 @@ module.exports = {
     (footprint "LOGO" (version 20210606) (generator bitmap2component) (layer "F.Cu")
       ${p.at /* parametric position */}
     (attr board_only exclude_from_pos_files exclude_from_bom)
+      (fp_text reference "${p.ref}" (at 0 0) (layer F.Fab)
+        ${p.ref_hide}
+        (effects (font (size 1 1) (thickness 0.15)))
+      )
       (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
       )

@@ -1226,17 +1226,17 @@ module.exports = {
       (zone_connect 0)
       (options (clearance outline) (anchor circle))
       (primitives
-        (gr_line (start 0 0) (end -0.766 0.766) (width 0.25))
-        (gr_line (start -0.766 0.766) (end -0.766 4.822) (width 0.25))
-        (gr_line (start -0.766 4.822) (end 0 5.588) (width 0.25))
+        (gr_line (start 0 0) (end -0.766 0.766) (width 0.4))
+        (gr_line (start -0.766 0.766) (end -0.766 4.822) (width 0.4))
+        (gr_line (start -0.766 4.822) (end 0 5.588) (width 0.4))
       ))
     (pad 1 smd custom (at -13.97 -0.762 ${p.rot}) (size 0.25 0.25) (layers F.Cu) ${p.net.RAW.str}
       (zone_connect 0)
       (options (clearance outline) (anchor circle))
       (primitives
-        (gr_line (start 0 0) (end 0.766 -0.766) (width 0.25))
-        (gr_line (start 0.766 -0.766) (end 0.766 -3.298) (width 0.25))
-        (gr_line (start 0.766 -3.298) (end 0 -4.064) (width 0.25))
+        (gr_line (start 0 0) (end 0.766 -0.766) (width 0.4))
+        (gr_line (start 0.766 -0.766) (end 0.766 -3.298) (width 0.4))
+        (gr_line (start 0.766 -3.298) (end 0 -4.064) (width 0.4))
       ))
     (pad 24 smd custom (at -13.97 0.762 ${p.rot + 180}) (size 0.25 0.25) (layers F.Cu) ${p.net.P1.str}
       (zone_connect 0)
