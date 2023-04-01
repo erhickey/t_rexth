@@ -20,7 +20,7 @@
     qwerty {
     bindings = <
       &kp Q     &kp W         &kp E         &kp R           &kp T               &kp Y      &kp U           &kp I          &kp O           &kp P
-      &KP A     &mt LGUI S    &kp D         &kp F           &kp G               &kp H      &kp J           &kp K          &mt LGUI L      &kp SEMI
+      &kp A     &mt LGUI S    &kp D         &kp F           &kp G               &kp H      &kp J           &kp K          &mt LGUI L      &kp SEMI
       &kp Z     &kp X         &kp C         &kp V           &kp B               &kp N      &kp M           &kp TAB        &kp ENTER       &kp SLASH
                               &kp LALT      &kp LSHIFT      &mo 1               &kp LCTRL  &kp SPACE       &lt 2 ESC
     >;
