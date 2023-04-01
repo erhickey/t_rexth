@@ -1,6 +1,6 @@
 # Thyranathaurus Rexth
 
-![t-rexth](./pics/pcb_3d.png)
+![t-rexth](./pics/t_rexth.jpg)
 
 ## About
 
